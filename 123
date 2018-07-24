@@ -38,26 +38,26 @@
   },
   {
     "id": 210,
-    "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpgg",
+    "name": "SpeedoHill",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPGYk5h8zEzO2BThxg-mS7swzyxQuN9gMP1ZAKr=s1600-w720",
     "priceCurrency": "PHP",
     "price": 150,
-    "lat": 16.3188,
-    "lng": 120.4687
+    "lat": 16.610087,
+    "lng": 120.352274
   },
   {
     "id": 211,
-    "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/6.jpg",
+    "name": "El union Coffee",
+    "imageUrl": "https://theweekendgypsy.files.wordpress.com/2016/04/img_9530.jpg",
     "priceCurrency": "₱",
     "price": 200,
-    "lat": 16.6583,
-    "lng": 120.3216
+    "lat": 16.659620,
+    "lng": 120.322424
   },
     {
     "id": 211,
     "name": "Bahay Ni Dann",
-    "imageUrl": "https://i.ytimg.com/vi/SR_qqU9oozw/maxresdefault.jpg",
+    "imageUrl": "https://s.hdnux.com/photos/71/43/13/15086302/5/920x920.jpg",
     "priceCurrency": "₱",
     "price": 0,
     "lat": 16.617139,
