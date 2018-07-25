@@ -3,8 +3,8 @@
     "id": 211,
     "name": "Bahay Ni Dann",
     "imageUrl": "https://s.hdnux.com/photos/71/43/13/15086302/5/920x920.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
+    "priceCurrency": "KM",
+    "price":,
     "lat": 16.617139,
     "lng": 120.322961
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Kaparkan Falls, ABRA",
     "imageUrl": "https://1.bp.blogspot.com/--8ku9xvbbOk/V96bfXmFFwI/AAAAAAAAgbg/joQ-locWn1gYKmhyZEkBaITiSTyvyGzJwCLcB/s1600/tineg09.jpg",
-    "priceCurrency": "₱",
-    "price": 200,
+    "priceCurrency": "(180.9 km)",
+    "price": ,
     "lat": 17.779910,
     "lng": 120.780816
   },
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Cabgan islet, Barobo, Surigao Del Sur",
     "imageUrl": "https://steemitimages.com/DQmPEWB6DmyTLxPyEBUGjE6TMGjHXv9SCWaPVxfDapEkmmD/image.png",
-    "priceCurrency": "₱",
+    "priceCurrency": "(1,583.6 km)",
     "price": 50,
     "lat": 8.568770,
     "lng": 126.165634
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Cambais Falls, Alegria, Cebu",
     "imageUrl": "https://asaniquen.com/wp-content/uploads/2017/08/cambais-falls-alegria-cebu-4.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(1,172.1 km)",
     "price": 150,
     "lat": 9.748394,
     "lng": 123.389343
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Pinacanauan River, Penablanca, Cagayan ",
     "imageUrl": "http://2.bp.blogspot.com/-im6RoVBkpg0/T0yZ0CTFIYI/AAAAAAAAD9s/S-8XUAqKBjM/s1600/IMG_0153.JPG",
-    "priceCurrency": "PHP",
+    "priceCurrency": "(400.0 km)",
     "price": 150,
     "lat": 17.654426,
     "lng": 121.879387
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Callao Cave,Penablanca, Cagayan",
     "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2018/03/10497882_10152395363039064_1566993653416277622_o.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(398.0 km)",
     "price": 200,
     "lat": 17.706946,
     "lng": 121.819259
@@ -57,7 +57,7 @@
     "id": 145,
     "name": "Rapang Cliffs, Itbayat, Batanes ",
     "imageUrl": "http://www.traveltrilogy.com/wp-content/uploads/2016/11/itbayat-island-10.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(460 km)",
     "price": 120,
     "lat": 20.776260,
     "lng": 121.817522
@@ -66,7 +66,7 @@
     "id": 211,
     "name": "Tinuy-an Falls, Bislig, Surigao del Sur ",
     "imageUrl": "https://farm9.staticflickr.com/8723/27989031524_57d36e9838_c.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(1,650.8 km)",
     "price": 0,
     "lat": 8.171772,
     "lng": 126.228074
@@ -75,7 +75,7 @@
     "id": 211,
     "name": "Asik-asik Falls, Alamada, North Cotabato ",
     "imageUrl": "https://jowayneflores.files.wordpress.com/2016/10/587ea-asikasik6.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(1,861.6 km)",
     "price": 0,
     "lat": 7.561535,
     "lng": 124.535429
@@ -85,7 +85,7 @@
     "id": 211,
     "name": "Ampere Beach, Dipaculao, Aurora",
     "imageUrl": "https://www.travelertips.org/wp-content/uploads/2015/04/ampere_beach.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(275.8 km)",
     "price": 0,
     "lat": 15.902091,
     "lng": 121.559301
@@ -95,7 +95,7 @@
     "id": 211,
     "name": "Bojo River, Aloguinsan, Cebu City",
     "imageUrl": "https://www.bisayatraveler.com/wp-content/uploads/2016/05/004-2.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": "(1,149.2 km)",
     "price": 0,
     "lat": 10.205824,
     "lng": 123.544686
@@ -105,7 +105,7 @@
     "id": 211,
     "name": "Bucas Grande Islands, Socorro, Surigao Del Norte  ",
     "imageUrl": "http://www.islandvacation.tours/wp-content/uploads/2016/03/Sohoton-Cave-for-Visit-Bucas-Grande-Blog.jpg",
-    "priceCurrency": "₱",
+    "priceCurrency": (987 km)",
     "price": 0,
     "lat": 9.598229,
     "lng": 125.916607
