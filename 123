@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Cabgan islet",
+    "name": "Cabgan islet, Barobo, Surigao Del Sur",
     "imageUrl": "https://steemitimages.com/DQmPEWB6DmyTLxPyEBUGjE6TMGjHXv9SCWaPVxfDapEkmmD/image.png",
     "priceCurrency": "₱",
     "price": 50,
@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "SpeedoHill",
-    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPGYk5h8zEzO2BThxg-mS7swzyxQuN9gMP1ZAKr=s1600-w720",
+    "name": "Pinacanauan River ",
+    "imageUrl": "http://2.bp.blogspot.com/-im6RoVBkpg0/T0yZ0CTFIYI/AAAAAAAAD9s/S-8XUAqKBjM/s1600/IMG_0153.JPG",
     "priceCurrency": "PHP",
     "price": 150,
-    "lat": 16.610087,
-    "lng": 120.352274
+    "lat": 17.654426,
+    "lng": 121.879387
   },
   {
     "id": 211,
