@@ -19,22 +19,21 @@
   },
   {
     "id": 201,
-    "name": "LightHouse",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/08/57/b5/8b/shot-of-the-lighthouse.jpg",
+    "name": "Cabgan islet",
+    "imageUrl": "https://steemitimages.com/DQmPEWB6DmyTLxPyEBUGjE6TMGjHXv9SCWaPVxfDapEkmmD/image.png",
     "priceCurrency": "₱",
     "price": 50,
-    "lat": 16.614815,
-    "lng": 120.280471
+    "lat": 8.568770,
+    "lng": 126.165634
   },
   {
     "id": 205,
-    "name": "Marand Resort.",
-    "name": "Description may pool po.",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
+    "name": "Cambais Falls, Alegria, Cebu",
+    "imageUrl": "https://asaniquen.com/wp-content/uploads/2017/08/cambais-falls-alegria-cebu-4.jpg",
     "priceCurrency": "₱",
     "price": 150,
-    "lat": 16.5264,
-    "lng": 120.3294
+    "lat": 9.748394,
+    "lng": 123.389343
   },
   {
     "id": 210,
